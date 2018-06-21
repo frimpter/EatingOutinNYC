@@ -1,0 +1,67 @@
+
+/* GROUP 2 PROJECT 2 NYC OPEN DATA CSS */
+
+.bgimg {
+  /* background-color: #000000; */
+  background-image: url("img/watercolor.jpeg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.nyc {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 70px;
+  color: #2f2758;
+  text-transform: uppercase;
+  text-shadow: 3px 2px #cbc6e7;
+}
+
+.runner {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #473c7f;
+  text-shadow: 1px 1px #f1dcca;
+
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  color: #2f2758;
+}
+
+span {
+  font-size: 80%;
+  font-weight: normal;
+  text-transform: none;
+  color: #808080;
+}
+
+select {
+  font-size: 15px;
+}
+
+#map
+{
+  height: 400px;
+  width: 300px;
+}
+
+#violations
+{
+  height: 400px;
+  width: 300px;
+}
+
+#spacer {
+  height: 200px;
+}
+
+#logos {
+  height: 250px;
+  vertical-align: middle;
+  text-align: center;
+}
